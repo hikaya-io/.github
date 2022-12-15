@@ -21,7 +21,7 @@ We are a team of data scientists, designers, humanitarians, and software enginee
 
 ## Looking to contribute?
 
-We're currently working and maintaining the following projects:
+We're currently working on and maintaining the following projects:
 
 - Dots (A data management and visualization tool. The app is managed as a monorepo with a Python/DRF backend and Vue frontend.)
 - [Hakawati](https:/github.com/hikaya-io/hakawati) (Vue based UI component library)
